@@ -6,3 +6,10 @@ h1 {
 p{
 	color: red;
 }
+#top{
+	color:green;
+}
+
+.name{
+	text-align: right;
+}
