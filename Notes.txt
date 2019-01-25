@@ -1,0 +1,17 @@
+git clone <repositoryURL>
+
+git add <fileName>
+
+git commit -m ""
+git commit -am ""
+git pull
+git push
+git checkout <branchName>-switch branches
+git branch--list of branches
+git branch <newFeatureName>
+git merge <branchName>
+git push -- set-upstream origin <branchName>
+git fork <>----> copia de un repositorio , tu propia copia de repositorio
+git pull
+
+git status
