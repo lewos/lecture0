@@ -13,6 +13,8 @@ git fork <>----> copia de un repositorio , tu propia copia de repositorio
 git pull
 
 git status
+git log
+git remote -v
 
 git reset --hard origin/master
 git pull origin master
